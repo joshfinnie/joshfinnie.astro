@@ -16,9 +16,6 @@
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.4.1",
-    "imagemin-mozjpeg": "^9.0.0",
-    "imagemin-optipng": "^8.0.0",
-    "lodash.kebabcase": "^4.1.1",
-    "snowpack-plugin-imagemin": "^1.0.0"
+    "lodash.kebabcase": "^4.1.1"
   }
 }

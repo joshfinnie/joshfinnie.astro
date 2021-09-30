@@ -18,7 +18,7 @@ As October approachs I usually start thinking of my New Year resolutions. Howeve
 
 ## Review
 
-![The 12 Week Year](/assets/blog/12weekyear.jpg)
+<img src="/assets/blog/12weekyear.jpg" alt="The 12 Week Year" class="mx-auto"/>
 
 The 12 Week Year is a mindset change where one seeks quarterly goal setting as a solution to the drawbacks of annual resolutions. It’s right there in the title. Take your annual New Year resolutions and break them down into 4 “12 week years” to give a larger sense of urgency to your goals. I have had my fair share of failures among my New Year resolutions, so this book spoke to my issues! When you break your goals down to 12 weeks, you don’t have the ability to become complacent with your goals. Time is short; you need to constantly work on completing your goals in the given 12 weeks. We’ve all been there, we set our New Year resolutions and then forget about them until October. You race to complete some of them, but also realize that many of those resolutions were scoped impossibly large. You have destined yourself for failure. But when you scope your goals to 12 weeks, every passing day creates a sense of urgency to complete what you’ve set out to do.
 
