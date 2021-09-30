@@ -6,7 +6,7 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
   },
   // Enables Tailwind support for development
   devOptions: {
-    port: 3000,
+    port: 3333,
     hostname: "0.0.0.0",
     tailwindConfig: "./tailwind.config.js",
   },

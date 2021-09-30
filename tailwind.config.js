@@ -17,6 +17,9 @@ module.exports = {
             li: {
               margin: 0,
             },
+            p: {
+              'text-align': 'justify',
+            },
           },
         },
       },

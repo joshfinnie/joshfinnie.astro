@@ -11,10 +11,14 @@
   "devDependencies": {
     "astro": "^0.20.3",
     "date-fns": "^2.24.0",
+    "sharp": "^0.29.1",
     "tailwindcss": "^2.2.15"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.4.1",
-    "lodash.kebabcase": "^4.1.1"
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "lodash.kebabcase": "^4.1.1",
+    "snowpack-plugin-imagemin": "^1.0.0"
   }
 }
